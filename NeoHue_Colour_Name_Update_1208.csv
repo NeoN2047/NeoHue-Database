@@ -1,0 +1,1209 @@
+﻿HEX,Canonical_Name,Alternate_Names,Naming_Confidence
+#000000,Obsidian Black,,HIGH
+#000080,Midnight Navy,Navy Blue,MEDIUM
+#000831,Midnight Cobalt,,HIGH
+#000B29,Shadowed Cobalt,,HIGH
+#000D29,Pitch Cobalt,,MEDIUM
+#001219,Midnight Teal Shadow,Midnight Obsidian Black,MEDIUM
+#001524,Abyssal Azure,Shadowed Obsidian Black,MEDIUM
+#0019FF,Electric Ultramarine,Ultramarine Blue,MEDIUM
+#00203F,Blue Hour Azure,Midnight Azure,MEDIUM
+#0024CC,Rich Cobalt,,MEDIUM
+#00293C,Midnight Lagoon,Midnight Aqua,MEDIUM
+#002C54,Deep Ocean Azure,Deep Azure,MEDIUM
+#003459,Velvet Ocean Blue,Velvet Aqua,MEDIUM
+#003B46,Abyssal Teal,Deep Aqua,MEDIUM
+#003D73,Velvet Azure,,MEDIUM
+#003E83,Dusky Sapphire,Dusky Azure,MEDIUM
+#004445,Midnight Teal,,MEDIUM
+#0047AB,Royal Cobalt,Rich Azure,MEDIUM
+#004B23,Midnight Jade,,MEDIUM
+#004DFF,Cobalt Blue,,MEDIUM
+#0057BA,Burnished Azure,,MEDIUM
+#00592E,Deep Jade,,MEDIUM
+#0059B2,Prussian Blue,,MEDIUM
+#005F73,Dusky Lagoon,Dusky Aqua,MEDIUM
+#006400,Deep Fern,,MEDIUM
+#006C84,Tidal Teal,Rich Aqua,MEDIUM
+#007200,Velvet Fern,,MEDIUM
+#00743F,Velvet Jade,,MEDIUM
+#0077B6,Tidal Azure,Burnished Aqua,MEDIUM
+#007BA7,Cerulean Tide,Earthy Aqua,MEDIUM
+#007EA7,Smoky Aqua,,MEDIUM
+#008000,Dusky Fern,,MEDIUM
+#008080,Deep Teal,,MEDIUM
+#0080FF,Cerulean Blue,,MEDIUM
+#008AA1,Rich Teal,,MEDIUM
+#008DCB,Mineral Aqua,,MEDIUM
+#00A4CC,Moody Aqua,,MEDIUM
+#00A8E8,Bright Aqua,,MEDIUM
+#00B200,Viridian Green,,MEDIUM
+#00B2B2,Burnished Teal,,MEDIUM
+#00B4D8,Warm Aqua,,MEDIUM
+#00CC00,Rich Fern,,MEDIUM
+#00CF91,Rich Seafoam,,MEDIUM
+#00CFFA,Arctic Electric Cyan,Lggs Cyan On,MEDIUM
+#00D973,Rich Jade,,MEDIUM
+#00E5FF,Vivid Teal,,MEDIUM
+#00FF00,Laser Lime,Lime Green,MEDIUM
+#00FFFF,Glacier Cyan,Cyan Blue,MEDIUM
+#011A27,Shadowed Navy,Midnight Navy,MEDIUM
+#012172,Deep Cobalt,,MEDIUM
+#01796F,Velvet Teal,,MEDIUM
+#020509,Inkstone Blue,Black Blue,MEDIUM
+#02080F,Smoky Obsidian Black,,MEDIUM
+#021C1E,Blackened Lagoon,Blue Black,MEDIUM
+#02231C,Velvet Obsidian Black,,MEDIUM
+#0294A5,Earthy Teal,,MEDIUM
+#031926,Pitch Aqua,,MEDIUM
+#03353E,Shadowed Teal,,MEDIUM
+#04030C,Pitch Obsidian Black,,MEDIUM
+#04060F,Inky Obsidian Black,,MEDIUM
+#040C0E,Dark Obsidian Black,,MEDIUM
+#04202C,Forest Blue,,MEDIUM
+#0438A3,Burnished Cobalt,,MEDIUM
+#043D8C,Smoldering Azure,,MEDIUM
+#0444BF,Earthy Azure,,MEDIUM
+#0486DB,Rich Cerulean,,MEDIUM
+#05328E,Velvet Cobalt,,MEDIUM
+#0584F2,Vivid Azure,,MEDIUM
+#05ACD3,Burnished Cerulean,,MEDIUM
+#06004F,Inky Cobalt,,MEDIUM
+#061283,Shadowed Cobalt Blue,Dusky Cobalt,MEDIUM
+#063852,Deep Ocean Blue,,MEDIUM
+#06D6A0,Burnished Seafoam,,MEDIUM
+#07000E,Obsidian Eclipse,Obsidian Obsidian Black,MEDIUM
+#07575B,Twilight Teal,,MEDIUM
+#080706,Cinder Obsidian Black,,MEDIUM
+#0878A4,Earthy Cerulean,,MEDIUM
+#087E8B,Dusky Teal,,MEDIUM
+#0A0908,Coal Obsidian Black,,MEDIUM
+#0A9396,Smoky Teal,,MEDIUM
+#0AAFF1,Vivid Aqua,,MEDIUM
+#0ABDA0,Earthy Seafoam,,MEDIUM
+#0B090A,Raven Obsidian Black,,MEDIUM
+#0B3954,Dark Aqua,,MEDIUM
+#0D0221,Deep Onyx Black,,MEDIUM
+#0D050E,Midnight Onyx Black,,MEDIUM
+#0D2B52,Shadowed Azure,,MEDIUM
+#0D75FF,Electric Azure,,MEDIUM
+#0F1B07,Pine Shadow Green,Deep Green,MEDIUM
+#0F1F38,Onyx Blue,,MEDIUM
+#0F261F,Midnight Seafoam,,MEDIUM
+#0F3A3A,Pitch Teal,,MEDIUM
+#0F52BA,Smoky Azure,,MEDIUM
+#10000C,Shadowed Onyx Black,,MEDIUM
+#107050,Deep Seafoam,,MEDIUM
+#111919,Deep Slate Black,,MEDIUM
+#113743,Twilight Aqua,,MEDIUM
+#118AB2,Smoky Cerulean,,MEDIUM
+#118C8B,Mineral Teal,,MEDIUM
+#121F40,Smoldering Cobalt,,MEDIUM
+#132226,Inky Aqua,,MEDIUM
+#138D90,Moody Teal,,MEDIUM
+#14325C,Dark Azure,,MEDIUM
+#15616D,Smoldering Teal,,MEDIUM
+#161A1D,Deep Charcoal Black,,MEDIUM
+#16235A,Dark Cobalt,,MEDIUM
+#16253D,Twilight Azure,,MEDIUM
+#172713,Midnight Fern,,MEDIUM
+#182657,Twilight Cobalt,,MEDIUM
+#1900D9,Indigo Violet,,MEDIUM
+#1900FF,Dioxazine Purple,,MEDIUM
+#191404,Ebony Brown,,MEDIUM
+#191919,Jet Gray,,MEDIUM
+#191970,Midnight Blue,,MEDIUM
+#192E5B,Deep Sapphire,,MEDIUM
+#197278,Dark Teal,,MEDIUM
+#1995AD,Ocean Teal,,MEDIUM
+#19CC33,Bright Fern,,MEDIUM
+#1A1A1D,Midnight Charcoal Black,,MEDIUM
+#1A405F,Aegean Blue,,MEDIUM
+#1B1924,Midnight Indigo,,MEDIUM
+#1B3644,Deep Cerulean,,MEDIUM
+#1B4B5A,Velvet Cerulean,,MEDIUM
+#1B8E13,Burnished Fern,,MEDIUM
+#1BE7FF,Electric Teal,,MEDIUM
+#1C2C58,Velvet Sapphire,,MEDIUM
+#1D65A6,Mineral Azure,,MEDIUM
+#1E0000,Velvet Oxblood,Canva Dark,MEDIUM
+#1E1E20,Shadowed Charcoal Black,,MEDIUM
+#1E1F26,Smoky Charcoal Black,,MEDIUM
+#1E434C,Deep Slate Teal,,MEDIUM
+#1E656D,Peacock Teal,,MEDIUM
+#1ECFD6,Cool Teal,,MEDIUM
+#1F1641,Deep Indigo,,MEDIUM
+#1F1726,Plum Black,,MEDIUM
+#20232A,Velvet Charcoal Black,,MEDIUM
+#202D85,Earthy Cobalt,,MEDIUM
+#20948B,Reef Teal,,MEDIUM
+#211F30,Shadow Blue,,MEDIUM
+#212027,Pitch Charcoal Black,,MEDIUM
+#212624,Inky Charcoal Black,,MEDIUM
+#217CA3,Mineral Cerulean,,MEDIUM
+#22333B,Smoldering Cerulean,,MEDIUM
+#231B12,Midnight Tangerine,,MEDIUM
+#232122,Dark Charcoal Black,,MEDIUM
+#23345C,Dusky Sapphire Blue,Dusky Sapphire,MEDIUM
+#23C17C,Warm Jade,,MEDIUM
+#240046,Midnight Violet,,MEDIUM
+#24150E,Midnight Coral,,MEDIUM
+#253F5B,Stormy Slate Blue,Deep Sky,MEDIUM
+#257985,Teal Blue,,MEDIUM
+#258039,Earthy Fern,,MEDIUM
+#260080,Velvet Aubergine,Aubergine,LOW
+#2619D1,Bright Cobalt,,MEDIUM
+#262F34,Obsidian Charcoal Black,,MEDIUM
+#264653,Shadowed Cerulean,,MEDIUM
+#265C00,Deep Moss,,MEDIUM
+#26DFD0,Fresh Teal,,MEDIUM
+#270101,Midnight Crimson,,MEDIUM
+#272424,Cinder Charcoal Black,,MEDIUM
+#282623,Coal Charcoal Black,,MEDIUM
+#282726,Raven Charcoal Black,,MEDIUM
+#282B28,Deep Graphite Black,,MEDIUM
+#283618,Midnight Moss,,MEDIUM
+#283655,Rich Sapphire,,MEDIUM
+#283D3B,Velvet Seafoam,,MEDIUM
+#2988BC,Cool Aqua,,MEDIUM
+#29BDAD,Warm Seafoam,,MEDIUM
+#2A1B3D,Deep Violet,,MEDIUM
+#2A2922,Midnight Graphite Black,,MEDIUM
+#2A3132,Shadow Charcoal,,MEDIUM
+#2A3457,Smoldering Sapphire,,MEDIUM
+#2A9D8F,Smoky Seafoam,,MEDIUM
+#2B193E,Velvet Violet,,MEDIUM
+#2B2D42,Shadowed Sapphire,,MEDIUM
+#2B616D,Dark Cerulean,,MEDIUM
+#2C1E16,Shadowed Coral,,MEDIUM
+#2C3E50,Velvet Sky,,MEDIUM
+#2C4A52,Blue-Green Teal,,MEDIUM
+#2C5F2D,Smoldering Fern,,MEDIUM
+#2C7873,Lagoon Teal,,MEDIUM
+#2D0060,Dusky Violet,,MEDIUM
+#2D00F7,Vivid Indigo,,MEDIUM
+#2D3033,Dusky Charcoal Gray,,MEDIUM
+#2D4262,Indigo Slate,,MEDIUM
+#2D4759,Twilight Cerulean,,MEDIUM
+#2DBC94,Soft Seafoam,,MEDIUM
+#2E2300,Bark Gold,,MEDIUM
+#2E303E,Smoky Charcoal Gray,,MEDIUM
+#2E3532,Muted Charcoal Gray,,MEDIUM
+#2E4600,Deep Olive,,MEDIUM
+#2F2E33,Weathered Charcoal Gray,,MEDIUM
+#2F2F28,Shadowed Graphite Black,,MEDIUM
+#2F3131,Velvet Charcoal Gray,,MEDIUM
+#2F496E,Sea Blue,,MEDIUM
+#301B28,Cocoa Pink,,MEDIUM
+#304040,Shadowed Charcoal Gray,,MEDIUM
+#31A2AC,Turquoise Teal,,MEDIUM
+#31A9B8,Aqua Blue,,MEDIUM
+#323030,Mineral Charcoal Gray,,MEDIUM
+#32384D,Asphalt Blue,,MEDIUM
+#324851,Blue Pine,,MEDIUM
+#324E2A,Shadowed Fern,,MEDIUM
+#328DAA,Moody Cerulean,,MEDIUM
+#328E13,Rich Moss,,MEDIUM
+#333300,Bistre Olive,,MEDIUM
+#335252,Stormy Sea,,MEDIUM
+#336B87,Stone Blue,,MEDIUM
+#337BAE,Soft Aqua,,MEDIUM
+#33FF7D,Vivid Jade,,MEDIUM
+#33FF99,Neon Jade,,MEDIUM
+#340059,Rich Violet,,MEDIUM
+#3400A3,Rich Indigo,,MEDIUM
+#34495E,Dusky Sky,,MEDIUM
+#344D90,Sapphire Blue,,MEDIUM
+#344E41,Dusky Jade,,MEDIUM
+#34675C,Dusky Seafoam,,MEDIUM
+#34888C,Deep Tidal Teal,Tidal Teal,MEDIUM
+#353839,Onyx Black,,MEDIUM
+#353C3F,Deep Graphite Gray,,MEDIUM
+#355C7D,Moody Azure,,MEDIUM
+#362304,Shadowed Tangerine,,MEDIUM
+#363237,Deep Plum Gray,,MEDIUM
+#36454F,Deep Glacier,,MEDIUM
+#36688D,Warm Azure,,MEDIUM
+#370617,Midnight Rose,,MEDIUM
+#375E97,Dusk Blue,,MEDIUM
+#383140,Dusky Graphite Gray,,MEDIUM
+#3A0CA3,Burnished Indigo,,MEDIUM
+#3A5199,Smoky Cobalt,,MEDIUM
+#3A5A40,Dark Fern,,MEDIUM
+#3B1F2B,Deep Rose,,MEDIUM
+#3C096C,Smoldering Violet,,MEDIUM
+#3D0079,Shadowed Violet,,MEDIUM
+#3D405B,Dark Sapphire,,MEDIUM
+#3D6600,Avocado Green,,MEDIUM
+#3F2A1D,Deep Coral,,MEDIUM
+#3F3232,Smoky Graphite Gray,,MEDIUM
+#3F681C,Forest Green,,MEDIUM
+#3F6C45,Basil Green,,MEDIUM
+#404033,Dark Olive Charcoal,,MEDIUM
+#404040,Charcoal Gray,,MEDIUM
+#405416,Deep Citron,,MEDIUM
+#408080,Steel Teal,,MEDIUM
+#40B2FF,Azure Blue,,MEDIUM
+#40C945,Soft Fern,,MEDIUM
+#415939,Twilight Fern,,MEDIUM
+#417777,Earthy Lagoon,,MEDIUM
+#42313A,Muted Graphite Gray,,MEDIUM
+#423A01,Chocolate Brown,,MEDIUM
+#426E86,Rich Glacier,,MEDIUM
+#42EADD,Lagoon Turquoise,Turquoise,LOW
+#4361EE,Vivid Cobalt,,MEDIUM
+#44318D,Earthy Indigo,,MEDIUM
+#444C5C,Faded Navy,,MEDIUM
+#46211A,Crevice Red,,MEDIUM
+#468189,Smoky Lagoon,,MEDIUM
+#4682B4,Steel Blue,,MEDIUM
+#471400,Dark Espresso,,MEDIUM
+#4733FF,Electric Indigo,,MEDIUM
+#476600,Velvet Citron,,MEDIUM
+#481D24,Deep Crimson,,MEDIUM
+#486824,Velvet Moss,,MEDIUM
+#486B00,Dusky Citron,,MEDIUM
+#488A99,Dusty Aqua,,MEDIUM
+#4897D8,Cool Azure,,MEDIUM
+#492C1D,Velvet Coral,,MEDIUM
+#4A4E69,Mineral Cobalt,,MEDIUM
+#4A8F96,Dusky Lagoon Teal,Dusky Lagoon,MEDIUM
+#4B0082,Dark Violet,,MEDIUM
+#4B4345,Weathered Graphite Gray,,MEDIUM
+#4B7447,Smoky Fern,,MEDIUM
+#4C3F54,Eggplant Purple,,MEDIUM
+#4CB5F5,Electric Sky Blue,,MEDIUM
+#4CC9F0,Bold Aqua,,MEDIUM
+#4D00FF,Royal Purple,,MEDIUM
+#4D52DE,Warm Cobalt,,MEDIUM
+#4D648D,Blueberry Blue,,MEDIUM
+#4DD8AD,Cool Seafoam,,MEDIUM
+#4DFF00,Apple Green,,MEDIUM
+#4DFFE6,Robins Egg Cyan,,MEDIUM
+#4DFFFF,Sky Cyan,,MEDIUM
+#4E4E50,Velvet Graphite Gray,,MEDIUM
+#4E7BA7,Dusty Azure,,MEDIUM
+#4F4A45,Pewter Gray,,MEDIUM
+#4F6457,Shadowed Graphite Gray,,MEDIUM
+#4F6D7A,Burnished Glacier,,MEDIUM
+#4F728E,Burnished Sky,,MEDIUM
+#4F8FE6,Fresh Azure,,MEDIUM
+#500805,Velvet Crimson,,MEDIUM
+#50312F,Eggplant Red,,MEDIUM
+#503D00,Midnight Amber,,MEDIUM
+#505160,Thunder Cloud,,MEDIUM
+#505423,Deep Marigold,,MEDIUM
+#506D2F,Leaves Green,,MEDIUM
+#50C878,Emerald Green,,MEDIUM
+#515B51,Mineral Graphite Gray,,MEDIUM
+#51A2D9,Fresh Aqua,,MEDIUM
+#522000,Dusky Coral,,MEDIUM
+#522E75,Burnished Violet,,MEDIUM
+#523634,Chocolate Red,,MEDIUM
+#524A3A,Deep Tangerine,,MEDIUM
+#52591F,Velvet Marigold,,MEDIUM
+#525B56,Cool Graphite Gray,,MEDIUM
+#52733B,Burnished Moss,,MEDIUM
+#52908B,Dusty Teal,,MEDIUM
+#52B788,Dusty Jade,,MEDIUM
+#531745,Deep Fuchsia,,MEDIUM
+#53225C,Deep Orchid,,MEDIUM
+#537072,Warm Graphite Gray,,MEDIUM
+#5398D9,Satin Azure,,MEDIUM
+#53C0F0,Radiant Aqua,,MEDIUM
+#54678F,Dusty Cobalt,,MEDIUM
+#556DAC,Muted Cobalt,,MEDIUM
+#55828B,Earthy Glacier,,MEDIUM
+#55D9C0,Fresh Seafoam,,MEDIUM
+#560BAD,Earthy Violet,,MEDIUM
+#561E18,Dusky Crimson,,MEDIUM
+#563838,Rich Crimson,,MEDIUM
+#563E20,Umber Orange,,MEDIUM
+#56AA69,Dusty Fern,,MEDIUM
+#582A20,Smoldering Crimson,,MEDIUM
+#582F0E,Velvet Tangerine,,MEDIUM
+#583E2E,Rich Coral,,MEDIUM
+#585A56,Quiet Graphite Gray,,MEDIUM
+#58771E,Rich Citron,,MEDIUM
+#588157,Mineral Fern,,MEDIUM
+#593D2B,Smoldering Coral,,MEDIUM
+#594346,Soft Graphite Gray,,MEDIUM
+#594D46,Deep Slate Gray,,MEDIUM
+#595775,Soft Slate Gray,,MEDIUM
+#598234,Meadow Green,,MEDIUM
+#5A189A,Smoky Violet,,MEDIUM
+#5A4D4C,Dusky Slate Gray,,MEDIUM
+#5A4E4D,Steel Gray,,MEDIUM
+#5A5F37,Dusky Marigold,,MEDIUM
+#5AA382,Muted Jade,,MEDIUM
+#5B7065,Smoky Slate Gray,,MEDIUM
+#5B84B1,Muted Azure,,MEDIUM
+#5BC8AC,Turquoise Mint,,MEDIUM
+#5C0029,Velvet Rose,,MEDIUM
+#5C2C45,Velvet Fuchsia,,MEDIUM
+#5C3D46,Rich Rose,,MEDIUM
+#5C4A72,Mineral Violet,,MEDIUM
+#5C7287,Misty Azure,,MEDIUM
+#5C821A,Burnished Citron,,MEDIUM
+#5C868D,Muted Teal,,MEDIUM
+#5C8A73,Misty Jade,,MEDIUM
+#5CC5EF,Lively Aqua,,MEDIUM
+#5D535E,Branch Gray,,MEDIUM
+#5E4017,Dusky Tangerine,,MEDIUM
+#5EA8A7,Soft Teal,,MEDIUM
+#5F4B8B,Smoky Indigo,,MEDIUM
+#5F758E,Soft Azure,,MEDIUM
+#5F968E,Muted Seafoam,,MEDIUM
+#606060,Muted Slate Gray,,MEDIUM
+#606C38,Earthy Citron,,MEDIUM
+#61304B,Dusky Fuchsia,,MEDIUM
+#615049,Weathered Slate Gray,,MEDIUM
+#626D71,Slate Gray,,MEDIUM
+#641220,Shadowed Crimson,,MEDIUM
+#6465A5,Soft Cobalt,,MEDIUM
+#651300,Dark Crimson,,MEDIUM
+#65734B,Smoky Citron,,MEDIUM
+#65A98F,Dusty Seafoam,,MEDIUM
+#662225,Burgundy Red,,MEDIUM
+#662E1C,Cinnamon Coral,,MEDIUM
+#666600,Dark Bronze,,MEDIUM
+#66A5AD,Wave Teal,,MEDIUM
+#66AB56,Muted Fern,,MEDIUM
+#66FF99,Sea Glass Aquamarine,Aquamarine,LOW
+#66FFCC,Vivid Seafoam,,MEDIUM
+#66FFE6,Robin'S Egg Blue,,MEDIUM
+#67BACA,Satin Teal,,MEDIUM
+#681916,Twilight Crimson,,MEDIUM
+#68829E,Waterfall Blue,,MEDIUM
+#688B8A,Warm Slate Gray,,MEDIUM
+#68A225,Earthy Moss,,MEDIUM
+#693D3D,Smoky Burgundy,,MEDIUM
+#6975A6,Misty Cobalt,,MEDIUM
+#6A00F4,Bright Violet,,MEDIUM
+#6A040F,Deep Ruby,,MEDIUM
+#6A8A82,Misty Slate Gray,,MEDIUM
+#6AB187,Soft Jade,,MEDIUM
+#6B2E63,Rich Orchid,,MEDIUM
+#6B4700,Burnt Umber,,MEDIUM
+#6B7436,Mineral Citron,,MEDIUM
+#6BFFB3,Electric Jade,,MEDIUM
+#6C2B11,Dark Coral,,MEDIUM
+#6C2D2C,Chestnut Red,,MEDIUM
+#6C5B7B,Mineral Slate Gray,,MEDIUM
+#6C5F5B,Metal Gray,,MEDIUM
+#6C6B74,Quiet Slate Gray,,MEDIUM
+#6E1423,Velvet Ruby,,MEDIUM
+#6E66D4,Cool Cobalt,,MEDIUM
+#6E6702,Rich Marigold,,MEDIUM
+#6EA900,Moody Citron,,MEDIUM
+#6EB5C0,Misty Teal,,MEDIUM
+#6EEB83,Warm Fern,,MEDIUM
+#6F0043,Rich Fuchsia,,MEDIUM
+#6F1D1B,Dusky Ruby,,MEDIUM
+#6F2232,Dusky Rose,,MEDIUM
+#6F4E37,Coffee Brown,,MEDIUM
+#6FB98F,Smoky Jade,,MEDIUM
+#701B05,Twilight Coral,,MEDIUM
+#704307,Rich Tangerine,,MEDIUM
+#704404,Smoldering Tangerine,,MEDIUM
+#706934,Rich Amber,,MEDIUM
+#708090,Cool Slate Gray,,MEDIUM
+#714E3D,Burnished Coral,,MEDIUM
+#715E4E,Burnished Tangerine,,MEDIUM
+#718600,Smoldering Citron,,MEDIUM
+#720017,Smoldering Rose,,MEDIUM
+#7209B7,Moody Violet,,MEDIUM
+#727077,Silken Slate Gray,,MEDIUM
+#728CA3,Weathered Azure,,MEDIUM
+#72A2C0,Muted Aqua,,MEDIUM
+#730F1F,Rich Ruby,,MEDIUM
+#73605B,Warm Taupe,,MEDIUM
+#738A00,Olive Brown,,MEDIUM
+#739F3D,Smoky Moss,,MEDIUM
+#73C0F4,Punchy Aqua,,MEDIUM
+#740800,Mahogany Red,,MEDIUM
+#740909,Smoldering Ruby,,MEDIUM
+#74412B,Earthy Coral,,MEDIUM
+#74593D,Earthy Tangerine,,MEDIUM
+#74C69D,Vintage Jade,,MEDIUM
+#752333,Shadowed Ruby,,MEDIUM
+#752A07,Cocoa Brown,,MEDIUM
+#754260,Burnished Fuchsia,,MEDIUM
+#755248,Peppercorn Coral,,MEDIUM
+#756867,Gentle Slate Gray,,MEDIUM
+#759243,Dusky Moss,,MEDIUM
+#75B1A9,Misty Seafoam,,MEDIUM
+#763626,Burnt Sienna,,MEDIUM
+#763F02,Dark Tangerine,,MEDIUM
+#76844E,Warm Citron,,MEDIUM
+#776B04,Deep Amber,,MEDIUM
+#777CA8,Weathered Cobalt,,MEDIUM
+#77ACA2,Vintage Seafoam,,MEDIUM
+#785A46,Stone Orange,,MEDIUM
+#78A5A3,Ocean Breeze,,MEDIUM
+#78D6AC,Cool Jade,,MEDIUM
+#797D62,Soft Stone Gray,,MEDIUM
+#7AA802,Rich Chartreuse,,MEDIUM
+#7AFF00,Vivid Moss,,MEDIUM
+#7B2CBF,Amethyst Purple,,MEDIUM
+#7B8937,Burnished Chartreuse,,MEDIUM
+#7BA4A8,Blue-Gray Teal,,MEDIUM
+#7CAA2D,Mineral Moss,,MEDIUM
+#7D4427,Cedar Brown,,MEDIUM
+#7D5642,Brownstone Coral,,MEDIUM
+#7D5E3C,Peppercorn Orange,,MEDIUM
+#7DA3A1,Weathered Teal,,MEDIUM
+#7E3075,Burnished Orchid,,MEDIUM
+#7E675E,Cool Stone Gray,,MEDIUM
+#7E7B15,Smoldering Marigold,,MEDIUM
+#7E8743,Burnished Marigold,,MEDIUM
+#7F00FF,Electric Violet,,MEDIUM
+#7F152E,Shadowed Rose,,MEDIUM
+#7F4F24,Smoky Tangerine,,MEDIUM
+#800000,Regal Maroon,Maroon,MEDIUM
+#800020,Dark Rose,,MEDIUM
+#8000FF,Byzantine Violet,,MEDIUM
+#805A3B,Driftwood Orange,,MEDIUM
+#808000,Olive Green,,MEDIUM
+#808080,Medium Slate Gray,,MEDIUM
+#80ADD7,Calm Azure,,MEDIUM
+#80BD9E,Eucalyptus Green,,MEDIUM
+#80CC00,Sage Olive,,MEDIUM
+#80CCFF,Cornflower Blue,,MEDIUM
+#80FF00,Chartreuse Green,,MEDIUM
+#80FF99,Medium Aquamarine,,MEDIUM
+#80FFCC,Electric Seafoam,,MEDIUM
+#81715E,Warm Stone Gray,,MEDIUM
+#818A6F,Misty Stone Gray,,MEDIUM
+#81A3A7,Quiet Teal,,MEDIUM
+#81B29A,Weathered Jade,,MEDIUM
+#824CA7,Dusty Violet,,MEDIUM
+#826F66,Smoky Stone Gray,,MEDIUM
+#82C09A,Gentle Jade,,MEDIUM
+#83C5BE,Weathered Seafoam,,MEDIUM
+#84754E,Antique Gold (Pms 871),,MEDIUM
+#84A45A,Dusty Moss,,MEDIUM
+#85182A,Smoky Crimson,,MEDIUM
+#857C8D,Muted Stone Gray,,MEDIUM
+#8593AE,Blue-Gray Blue,,MEDIUM
+#85B857,Muted Moss,,MEDIUM
+#867666,Mineral Stone Gray,,MEDIUM
+#86AC41,Soft Citron,,MEDIUM
+#87BBA2,Dusty Sage,,MEDIUM
+#87CEEB,Sky Blue,,MEDIUM
+#882426,Mineral Crimson,,MEDIUM
+#888C46,Earthy Marigold,,MEDIUM
+#888D2A,Smoky Marigold,,MEDIUM
+#88A550,Dusty Citron,,MEDIUM
+#8900F2,Bold Violet,,MEDIUM
+#896E69,Hot Chocolate,,MEDIUM
+#89DA59,Spring Green,,MEDIUM
+#8A140E,Dark Ruby,,MEDIUM
+#8A2C02,Deep Rust,,MEDIUM
+#8A5D59,Muted Crimson,,MEDIUM
+#8A8604,Shadowed Marigold,,MEDIUM
+#8A8683,Weathered Stone Gray,,MEDIUM
+#8A8D8F,Metallic Silver (Pms 877),,MEDIUM
+#8A9A5B,Moss Green,,MEDIUM
+#8A9B68,Muted Citron,,MEDIUM
+#8B281F,Moody Crimson,,MEDIUM
+#8B4513,Mineral Tangerine,,MEDIUM
+#8C0004,Twilight Ruby,,MEDIUM
+#8C3800,Russet Brown,,MEDIUM
+#8C6510,Moody Tangerine,,MEDIUM
+#8C7462,Muted Tangerine,,MEDIUM
+#8C7547,Warm Tangerine,,MEDIUM
+#8CCC00,Peridot Green,,MEDIUM
+#8D230F,Warm Crimson,,MEDIUM
+#8D2D56,Burnished Rose,,MEDIUM
+#8D2F23,Burnished Ruby,,MEDIUM
+#8D541E,Rich Copper,,MEDIUM
+#8D99AE,Quiet Azure,,MEDIUM
+#8E4585,Earthy Orchid,,MEDIUM
+#8E5C1D,Burnished Copper,,MEDIUM
+#8E6248,Smoky Coral,,MEDIUM
+#8E7970,Quiet Stone Gray,,MEDIUM
+#8E9B97,Silken Stone Gray,,MEDIUM
+#8EBA43,Soft Moss,,MEDIUM
+#8ED3F4,Jewel Aqua,,MEDIUM
+#8F4F06,Twilight Tangerine,,MEDIUM
+#8F715B,Dusty Tangerine,,MEDIUM
+#8FBF00,Citron Green,,MEDIUM
+#90AFC5,Mist Blue,,MEDIUM
+#9161F2,Bright Indigo,,MEDIUM
+#919636,Split Pea,,MEDIUM
+#9199BE,Vintage Cobalt,,MEDIUM
+#92AAC7,Bluebell Blue,,MEDIUM
+#93A806,Mineral Marigold,,MEDIUM
+#949398,Balanced Stone Gray,,MEDIUM
+#9499A6,Gentle Stone Gray,,MEDIUM
+#94A453,Misty Citron,,MEDIUM
+#94A89A,Soft Silver Gray,,MEDIUM
+#94BFBE,Vintage Teal,,MEDIUM
+#94D2BD,Gentle Seafoam,,MEDIUM
+#94FF94,Light Fern,,MEDIUM
+#95D5B2,Earthy Jade,,MEDIUM
+#962715,Brick Red,,MEDIUM
+#96BFE6,Soft Sky,,MEDIUM
+#97B8C2,Misty Aqua,,MEDIUM
+#97BC62,Misty Moss,,MEDIUM
+#984447,Earthy Ruby,,MEDIUM
+#98DBC6,Seafoam Green,,MEDIUM
+#98FF98,Pastel Fern,,MEDIUM
+#9900B2,Mulberry Wine,,MEDIUM
+#9966FF,Lavender Purple,,MEDIUM
+#998000,Raw Sienna,,MEDIUM
+#999999,Taupe Gray,,MEDIUM
+#99B333,Cool Citron,,MEDIUM
+#99BF00,Yellow Olive,,MEDIUM
+#99BFAA,Mineral Jade,,MEDIUM
+#99FF99,Mint Green,,MEDIUM
+#99FFB2,Seafoam Mint,,MEDIUM
+#9A031E,Smoky Ruby,,MEDIUM
+#9A8C98,Soft Pewter Gray,,MEDIUM
+#9A9EAB,Ash Gray,,MEDIUM
+#9B4F0F,Rust Orange,,MEDIUM
+#9B5348,Dusty Crimson,,MEDIUM
+#9BA747,Dusty Marigold,,MEDIUM
+#9BC01C,Earthy Chartreuse,,MEDIUM
+#9C52F2,Radiant Violet,,MEDIUM
+#9C6644,Mineral Coral,,MEDIUM
+#9CB29E,Cool Silver Gray,,MEDIUM
+#9D0208,Mineral Ruby,,MEDIUM
+#9D331F,Clay Red,,MEDIUM
+#9D4EDD,Warm Violet,,MEDIUM
+#9DBEBB,Mineral Seafoam,,MEDIUM
+#9E0059,Earthy Fuchsia,,MEDIUM
+#9E194D,Earthy Rose,,MEDIUM
+#9F4636,Leather Red,,MEDIUM
+#9FC2B2,Quiet Jade,,MEDIUM
+#A01D26,Moody Ruby,,MEDIUM
+#A0B084,Sage Teresaromano,,MEDIUM
+#A10045,Smoky Rose,,MEDIUM
+#A100F2,Magenta Pink,,MEDIUM
+#A10115,Warm Ruby,,MEDIUM
+#A10B2B,Mineral Rose,,MEDIUM
+#A11F0C,Red Delicious,,MEDIUM
+#A1B200,Olive Drab,,MEDIUM
+#A1BE95,Sage Green,,MEDIUM
+#A1D6E2,Glacier Blue,,MEDIUM
+#A24936,Rich Garnet,,MEDIUM
+#A2C523,Lime Olive,,MEDIUM
+#A32100,Moody Coral,,MEDIUM
+#A32B00,Moody Rust,,MEDIUM
+#A3445D,Vintage Rose,,MEDIUM
+#A34C00,Cinnamon Brown,,MEDIUM
+#A3586D,Warm Terracotta,Terracotta,LOW
+#A3765D,Dusty Coral,,MEDIUM
+#A37C27,Earthy Copper,,MEDIUM
+#A3A599,Silver Plate,,MEDIUM
+#A3AD00,Moody Marigold,,MEDIUM
+#A3B18A,Weathered Citron,,MEDIUM
+#A4161A,Burnished Garnet,,MEDIUM
+#A43820,Red Clay,,MEDIUM
+#A49592,Warm Gray,,MEDIUM
+#A4978E,Warm Silver Gray,,MEDIUM
+#A4A4BF,Quiet Cobalt,,MEDIUM
+#A4B3B6,Misty Silver Gray,,MEDIUM
+#A4CABC,Dusty Mint,,MEDIUM
+#A53A3B,Earthy Garnet,,MEDIUM
+#A57C65,Leather Coral,,MEDIUM
+#A58B70,Misty Tangerine,,MEDIUM
+#A58E87,Cool Pewter Gray,,MEDIUM
+#A5C05B,Satin Citron,,MEDIUM
+#A5C3CF,Powder Blue,,MEDIUM
+#A67B04,Burnished Amber,,MEDIUM
+#A6D40D,Bright Citron,,MEDIUM
+#A6E6DB,Satin Seafoam,,MEDIUM
+#A6FF47,Electric Moss,,MEDIUM
+#A7374B,Smoky Garnet,,MEDIUM
+#A7414A,Soft Crimson,,MEDIUM
+#A7907F,Soft Tangerine,,MEDIUM
+#A79674,Weathered Tangerine,,MEDIUM
+#A79C93,Smoky Silver Gray,,MEDIUM
+#A882C1,Muted Violet,,MEDIUM
+#A90636,Moody Rose,,MEDIUM
+#A93400,Warm Coral,,MEDIUM
+#A9927D,Quiet Tangerine,,MEDIUM
+#A99F3C,Palm Gold,,MEDIUM
+#AA4B41,Rust Red,,MEDIUM
+#ABA6BF,Muted Indigo,,MEDIUM
+#ABF5ED,Light Seafoam,,MEDIUM
+#AC5000,Terra Cotta,,MEDIUM
+#ACBD78,Vintage Citron,,MEDIUM
+#ACBEBE,Pale Stone Gray,,MEDIUM
+#ACD0C0,Mist Mint,,MEDIUM
+#ADEFD1,Light Jade,,MEDIUM
+#AEBD38,Soft Marigold,,MEDIUM
+#AF1C1C,Lipstick Red,,MEDIUM
+#AF4425,Rusty Orange,,MEDIUM
+#AFBADC,Gentle Cobalt,,MEDIUM
+#B08699,Muted Rose,,MEDIUM
+#B20000,Brick Crimson,,MEDIUM
+#B20024,Ruby Burgundy,,MEDIUM
+#B200FF,Tyrian Purple,,MEDIUM
+#B2473E,Tuscan Red,,MEDIUM
+#B24DFF,Amethyst Violet,,MEDIUM
+#B2BEB5,Frosted Stone Gray,,MEDIUM
+#B2CC00,Mustard Green,,MEDIUM
+#B2DBD5,Muted Mint,,MEDIUM
+#B2FF4D,Spring Bud,,MEDIUM
+#B2FF80,Pistachio Ice,,MEDIUM
+#B2FFCC,Aqua Mist,,MEDIUM
+#B2FFFF,Light Teal,,MEDIUM
+#B319AB,Smoky Orchid,,MEDIUM
+#B38540,Gold Orange,,MEDIUM
+#B38867,Coffee Orange,,MEDIUM
+#B3C100,Chartreuse Gold,,MEDIUM
+#B3D9A3,Vintage Moss,,MEDIUM
+#B3DBC0,Muted Sage,,MEDIUM
+#B3DE81,Spring Meadow Green,Light Green,MEDIUM
+#B3E8C2,Satin Jade,,MEDIUM
+#B4B4B4,Pearl Stone Gray,,MEDIUM
+#B5179E,Dusky Orchid,,MEDIUM
+#B51D0A,Spicy Red,,MEDIUM
+#B5B3BE,Clouded Stone Gray,,MEDIUM
+#B5C1B4,Light Stone Gray,,MEDIUM
+#B5D1CC,Quiet Seafoam,,MEDIUM
+#B5FFC2,Sunlit Fern,,MEDIUM
+#B6452C,Toffee Red,,MEDIUM
+#B68400,Earthy Amber,,MEDIUM
+#B7410E,Rich Rust,,MEDIUM
+#B7B7A4,Muted Silver Gray,,MEDIUM
+#B7B8B6,Granite Gray,,MEDIUM
+#B7E4C7,Fresh Jade,,MEDIUM
+#B85E00,Smoky Copper,,MEDIUM
+#B875EB,Cool Violet,,MEDIUM
+#B8B8FF,Light Cobalt,,MEDIUM
+#B8D20B,Rich Lemon,,MEDIUM
+#B90078,Smoky Fuchsia,,MEDIUM
+#B9C406,Burnished Lemon,,MEDIUM
+#B9D9C3,Soft Sage,,MEDIUM
+#B9E5F3,Light Aqua,,MEDIUM
+#BA5536,Soft Coral,,MEDIUM
+#BAA600,Smoky Amber,,MEDIUM
+#BAA896,Khaki Green,,MEDIUM
+#BB1924,Dusky Garnet,,MEDIUM
+#BB3E03,Burnished Rust,,MEDIUM
+#BB9457,Cool Tangerine,,MEDIUM
+#BBBF95,Muted Marigold,,MEDIUM
+#BBC3C6,Frosted Silver Gray,,MEDIUM
+#BBCF4A,Sand Beige,,MEDIUM
+#BC6C25,Fresh Tangerine,,MEDIUM
+#BC6D4F,Muted Coral,,MEDIUM
+#BCA18D,Vintage Tangerine,,MEDIUM
+#BCBABE,Warm Silver,,MEDIUM
+#BCD382,Calm Citron,,MEDIUM
+#BD3E85,Soft Fuchsia,,MEDIUM
+#BD8A44,Satin Tangerine,,MEDIUM
+#BDA589,Gentle Tangerine,,MEDIUM
+#BDA728,Warm Amber,,MEDIUM
+#BDE0FE,Light Azure,,MEDIUM
+#BDF226,Vivid Citron,,MEDIUM
+#BE302B,Cool Crimson,,MEDIUM
+#BE3B45,Satin Crimson,,MEDIUM
+#BE7052,Cool Coral,,MEDIUM
+#BE8260,Misty Coral,,MEDIUM
+#BE9063,Dusty Copper,,MEDIUM
+#BED905,Earthy Lemon,,MEDIUM
+#BF36E0,Warm Orchid,,MEDIUM
+#BF988F,Misty Crimson,,MEDIUM
+#BF9A77,Muted Copper,,MEDIUM
+#BF9D7A,Soft Copper,,MEDIUM
+#BFABCC,Soft Violet,,MEDIUM
+#BFAFA0,Misty Copper,,MEDIUM
+#BFBFBF,Silver Gray,,MEDIUM
+#BFD7EA,Muted Sky,,MEDIUM
+#BFD966,Khaki Sand,,MEDIUM
+#BFDCCF,Minty Mint,,MEDIUM
+#BFFF00,Electric Citron,,MEDIUM
+#BFFFE6,Pastel Seafoam,,MEDIUM
+#BFFFFF,Ice Blue,,MEDIUM
+#C0334D,Fresh Crimson,,MEDIUM
+#C05200,Dusky Copper,,MEDIUM
+#C05640,Calm Crimson,,MEDIUM
+#C05805,Burnt Copper,,MEDIUM
+#C06C84,Soft Rose,,MEDIUM
+#C0A9BD,Lilac Purple,,MEDIUM
+#C0B2B5,Smoke Gray,,MEDIUM
+#C0B490,Dusty Amber,,MEDIUM
+#C0C0C0,Pearl Silver Gray,,MEDIUM
+#C0D6DF,Vintage Aqua,,MEDIUM
+#C1403D,Soft Ruby,,MEDIUM
+#C1E1DC,Soft Mint,,MEDIUM
+#C2612C,Fresh Coral,,MEDIUM
+#C29545,Calm Tangerine,,MEDIUM
+#C2975A,Warm Copper,,MEDIUM
+#C2B280,Muted Amber,,MEDIUM
+#C2D3DA,Weathered Aqua,,MEDIUM
+#C3073F,Warm Rose,,MEDIUM
+#C3A55C,Soft Amber,,MEDIUM
+#C3B88A,Fawn Tan,,MEDIUM
+#C44536,Muted Ruby,,MEDIUM
+#C4BF33,Cool Marigold,,MEDIUM
+#C4D6B0,Weathered Moss,,MEDIUM
+#C4DFE6,Seafoam Teal,,MEDIUM
+#C5001A,Mineral Garnet,,MEDIUM
+#C5283D,Lively Crimson,,MEDIUM
+#C59CDB,Satin Violet,,MEDIUM
+#C5BEBA,Clouded Silver Gray,,MEDIUM
+#C5DEDD,Gentle Teal,,MEDIUM
+#C60000,Moody Garnet,,MEDIUM
+#C6D166,Soft Chartreuse,,MEDIUM
+#C74300,Earthy Rust,,MEDIUM
+#C7DB00,Smoky Lemon,,MEDIUM
+#C7F6EC,Sunlit Seafoam,,MEDIUM
+#C8000A,Warm Garnet,,MEDIUM
+#C8D6CA,Gentle Silver Gray,,MEDIUM
+#C9303E,Cool Ruby,,MEDIUM
+#C99E10,Bronze Gold,,MEDIUM
+#C9A66B,Caramel Orange,,MEDIUM
+#C9ADA7,Weathered Crimson,,MEDIUM
+#C9D1C8,Quiet Silver Gray,,MEDIUM
+#C9E4CA,Misty Fern,,MEDIUM
+#CA6702,Moody Copper,,MEDIUM
+#CAC7D7,Dusty Indigo,,MEDIUM
+#CB0000,Rich Rosewood,,MEDIUM
+#CB6318,Seeds Orange,,MEDIUM
+#CB793A,Cool Copper,,MEDIUM
+#CB80AB,Dusty Fuchsia,,MEDIUM
+#CB997E,Satin Coral,,MEDIUM
+#CC0000,Scarlet Red,,MEDIUM
+#CC0029,Carmine Red,,MEDIUM
+#CC00FF,Vivid Violet,,MEDIUM
+#CC1A97,Warm Fuchsia,,MEDIUM
+#CC85D1,Soft Orchid,,MEDIUM
+#CC8C00,Yellow Ochre,,MEDIUM
+#CC9900,Golden Ochre,,MEDIUM
+#CC9933,Amber Ochre,,MEDIUM
+#CCCCCC,Warm Putty,,MEDIUM
+#CCF2FF,Pale Aqua,,MEDIUM
+#CCFFCC,Celadon Mist,,MEDIUM
+#CD7213,Bronze Orange,,MEDIUM
+#CD7F32,Satin Copper,,MEDIUM
+#CDAB81,Fresh Copper,,MEDIUM
+#CDB599,Vintage Copper,,MEDIUM
+#CDBEA7,Sidewalk Orange,,MEDIUM
+#CDCDC0,Ceramic Gray,,MEDIUM
+#CE5A57,Punch Red,,MEDIUM
+#CF3721,Tomato Red,,MEDIUM
+#D00000,Burnished Rosewood,,MEDIUM
+#D09683,Dusty Rose,,MEDIUM
+#D0E1F9,Periwinkle Blue,,MEDIUM
+#D13525,Apple Red,,MEDIUM
+#D1B0B3,Vintage Crimson,,MEDIUM
+#D1B280,Calm Copper,,MEDIUM
+#D1BD19,Bright Amber,,MEDIUM
+#D2042D,Earthy Rosewood,,MEDIUM
+#D24136,Crimson Red,,MEDIUM
+#D28F1B,Lively Tangerine,,MEDIUM
+#D35C37,Ginger Coral,,MEDIUM
+#D36135,Lively Coral,,MEDIUM
+#D3D0DA,Light Silver Gray,,MEDIUM
+#D4AF37,Cool Amber,,MEDIUM
+#D4DCA9,Fresh Citron,,MEDIUM
+#D4DDE1,Quiet Aqua,,MEDIUM
+#D50B53,Rich Peony,,MEDIUM
+#D50C42,Bright Rose,,MEDIUM
+#D53C3C,Natural Crimson,,MEDIUM
+#D55448,Pumpkin Red,,MEDIUM
+#D57030,Natural Coral,,MEDIUM
+#D59B2D,Natural Tangerine,,MEDIUM
+#D5BDAF,Vintage Coral,,MEDIUM
+#D5C3AA,Oyster Orange,,MEDIUM
+#D5C9B1,Oatmeal Orange,,MEDIUM
+#D5D6D2,Pale Pearl Gray,,MEDIUM
+#D60036,Burnished Peony,,MEDIUM
+#D61800,Smoky Rosewood,,MEDIUM
+#D6618F,Cool Rose,,MEDIUM
+#D6C6B9,Oat Orange,,MEDIUM
+#D6CCC2,Weathered Copper,,MEDIUM
+#D6ED17,Dandelion Yellow,,MEDIUM
+#D70026,Dusky Rosewood,,MEDIUM
+#D72C16,Bright Crimson,,MEDIUM
+#D72F01,Smoky Rust,,MEDIUM
+#D75404,Dusky Rust,,MEDIUM
+#D75B66,Satin Ruby,,MEDIUM
+#D7B095,Soft Apricot,,MEDIUM
+#D8412F,Balanced Crimson,,MEDIUM
+#D85A7F,Satin Rose,,MEDIUM
+#D8D583,Fresh Marigold,,MEDIUM
+#D8E2DC,Soft Pearl Gray,,MEDIUM
+#D900FF,Amaranth Purple,,MEDIUM
+#D90429,Mineral Rosewood,,MEDIUM
+#D926FF,Orchid Magenta,,MEDIUM
+#D94D99,Cool Fuchsia,,MEDIUM
+#D96B0C,Bright Tangerine,,MEDIUM
+#D99E73,Muted Apricot,,MEDIUM
+#D9AC2A,Fresh Amber,,MEDIUM
+#D9AE94,Calm Coral,,MEDIUM
+#D9B200,Ochre Gold,,MEDIUM
+#D9B2B2,Rosewood Beige,,MEDIUM
+#D9B44A,Satin Amber,,MEDIUM
+#D9C3B1,Gentle Copper,,MEDIUM
+#D9D98C,Sandstone Beige,,MEDIUM
+#D9DCD8,Misty Pearl Gray,,MEDIUM
+#D9FF00,Acid Lime,,MEDIUM
+#DA70D6,Orchid Purple,,MEDIUM
+#DAA2DA,Plum Purple,,MEDIUM
+#DAC3B3,Newsprint Orange,,MEDIUM
+#DAC6AC,Dusty Apricot,,MEDIUM
+#DB162F,Jewel Ruby,,MEDIUM
+#DB9501,Amber Gold,,MEDIUM
+#DBAE58,Balanced Tangerine,,MEDIUM
+#DBB4DA,Dusty Orchid,,MEDIUM
+#DBDFAC,Calm Marigold,,MEDIUM
+#DC143C,Bold Crimson,,MEDIUM
+#DCD9C6,Misty Amber,,MEDIUM
+#DD6E42,Balanced Coral,,MEDIUM
+#DDA15E,Glowing Tangerine,,MEDIUM
+#DDA288,Soft Rust,,MEDIUM
+#DDBC95,Latte Orange,,MEDIUM
+#DDBEA9,Warm Apricot,,MEDIUM
+#DDC5A2,Frosting Orange,,MEDIUM
+#DDDEDE,Frosted Pearl Gray,,MEDIUM
+#DE4500,Mineral Rust,,MEDIUM
+#DE7A22,Burnt Tangerine,,MEDIUM
+#DE8CF0,Cool Orchid,,MEDIUM
+#DFD0F1,Fresh Violet,,MEDIUM
+#DFE166,Lively Marigold,,MEDIUM
+#E0115F,Vivid Rose,,MEDIUM
+#E05858,Faded Red,,MEDIUM
+#E07A5F,Glowing Coral,,MEDIUM
+#E0B81F,Lively Amber,,MEDIUM
+#E0E8F0,Vintage Azure,,MEDIUM
+#E0EFC3,Muted Chartreuse,,MEDIUM
+#E1315B,Fuschia Rose,,MEDIUM
+#E1B16A,Warm Orange,,MEDIUM
+#E1B80D,Vivid Amber,,MEDIUM
+#E29578,Warm Rust,,MEDIUM
+#E29930,Natural Copper,,MEDIUM
+#E2C499,Cobblestone Orange,,MEDIUM
+#E2DFA2,Honeydew Gold,,MEDIUM
+#E2E8E4,Pale Silver White,,MEDIUM
+#E38533,Orange Orange,,MEDIUM
+#E38B75,Faded Rose,,MEDIUM
+#E3D5CA,Misty Apricot,,MEDIUM
+#E4535E,Glowing Crimson,,MEDIUM
+#E4B600,Bold Amber,,MEDIUM
+#E4E3DB,Silken Pearl Gray,,MEDIUM
+#E4EA8C,Lemon Lime,,MEDIUM
+#E4EBF2,Gentle Azure,,MEDIUM
+#E4FF1A,Vivid Marigold,,MEDIUM
+#E5383B,Fresh Ruby,,MEDIUM
+#E59D5C,Sand Orange,,MEDIUM
+#E5E2CA,Vintage Amber,,MEDIUM
+#E600FF,Electric Magenta,,MEDIUM
+#E62E73,Bold Rose,,MEDIUM
+#E63300,Burnt Orange,,MEDIUM
+#E67E22,Vivid Tangerine,,MEDIUM
+#E69A8D,Lively Ruby,,MEDIUM
+#E6ADCF,Muted Fuchsia,,MEDIUM
+#E6CCB5,Soft Peach,Peach,LOW
+#E6CF00,Mustard Yellow,,MEDIUM
+#E6D72A,Golden Lemon,,MEDIUM
+#E6DF44,Daffodil Yellow,,MEDIUM
+#E6E6CC,Alabaster Beige,,MEDIUM
+#E6E6FA,Pale Cobalt,,MEDIUM
+#E6EFF3,Gentle Aqua,,MEDIUM
+#E6FF33,Lemon Chiffon,,MEDIUM
+#E6FF80,Mimosa Yellow,,MEDIUM
+#E73F0B,Ripe Apple,,MEDIUM
+#E7472E,Orange-Red Red,,MEDIUM
+#E74C3C,Radiant Crimson,,MEDIUM
+#E7552C,Sunset Orange,,MEDIUM
+#E7F5DE,Cool Moss,,MEDIUM
+#E81900,Punchy Crimson,,MEDIUM
+#E8A735,Marigold Orange,,MEDIUM
+#E8DAB2,Calm Amber,,MEDIUM
+#E94F08,Bright Coral,,MEDIUM
+#E9724C,Vivid Coral,,MEDIUM
+#E98074,Natural Ruby,,MEDIUM
+#E99787,Mauve Red,,MEDIUM
+#E9C46A,Natural Amber,,MEDIUM
+#E9D8A6,Soft Ochre,,MEDIUM
+#EAB364,Nectar Orange,,MEDIUM
+#EAD39C,Parsnip Gold,,MEDIUM
+#EAE0C8,Muted Ochre,,MEDIUM
+#EAE2D6,Linen Orange,,MEDIUM
+#EB5E30,Persimmon Orange,,MEDIUM
+#EB8A3E,Honey Orange,,MEDIUM
+#EB8A44,Copper Orange,,MEDIUM
+#EBB582,Biscotti Orange,,MEDIUM
+#EBD999,Light Amber,,MEDIUM
+#EBDCB2,Cream Gold,,MEDIUM
+#EBDF00,Yellow Pear,,MEDIUM
+#EBF2EA,Weathered Fern,,MEDIUM
+#EC96A4,Berry Rose,,MEDIUM
+#ECF0F1,Snowy Pearl White,,MEDIUM
+#ED2B33,Jewel Crimson,,MEDIUM
+#ED3D66,Radiant Rose,,MEDIUM
+#ED5752,Raspberry Red,,MEDIUM
+#ED8C72,Cool Rust,,MEDIUM
+#EDAE01,Lemon Gold,,MEDIUM
+#EDB83D,Radiant Tangerine,,MEDIUM
+#EDD170,Balanced Amber,,MEDIUM
+#EDDDD4,Weathered Coral,,MEDIUM
+#EDF259,Lemon Yellow,,MEDIUM
+#EDF2F4,Dusty Cerulean,,MEDIUM
+#EE693F,Carrot Orange,,MEDIUM
+#EE6C81,Electric Crimson,,MEDIUM
+#EE964B,Punchy Tangerine,,MEDIUM
+#EE9B00,Jewel Tangerine,,MEDIUM
+#EECC8D,Balanced Copper,,MEDIUM
+#EED8C9,Beige Orange,,MEDIUM
+#EF233C,Bright Ruby,,MEDIUM
+#EF476F,Lively Rose,,MEDIUM
+#EFA747,Electric Tangerine,,MEDIUM
+#EFB509,Electric Amber,,MEDIUM
+#EFEFEF,Porcelain Pearl White,,MEDIUM
+#F03625,Vivid Ruby,,MEDIUM
+#F05837,Bold Ruby,,MEDIUM
+#F07995,Punchy Rose,,MEDIUM
+#F0810F,Neon Tangerine,,MEDIUM
+#F08B33,Bright Copper,,MEDIUM
+#F092A5,Fresh Rose,,MEDIUM
+#F09E8C,Balanced Ruby,,MEDIUM
+#F0EFEA,Chiffon White,,MEDIUM
+#F0EFF0,Grayish White,,MEDIUM
+#F1445B,Radiant Ruby,,MEDIUM
+#F14D49,Punchy Ruby,,MEDIUM
+#F18904,Brilliant Tangerine,,MEDIUM
+#F18D9E,Blush Pink,,MEDIUM
+#F1931B,High-Voltage Tangerine,,MEDIUM
+#F1BA48,Vivid Copper,,MEDIUM
+#F1C40F,Neon Amber,,MEDIUM
+#F1D3BC,Light Tangerine,,MEDIUM
+#F1DCC9,Parchment Orange,,MEDIUM
+#F1DED1,Cool Apricot,,MEDIUM
+#F1E0D6,Muted Rust,,MEDIUM
+#F1F1F2,Overcast White,,MEDIUM
+#F1F3CE,Ivory Gold,,MEDIUM
+#F1F3F2,Frosted Pearl White,,MEDIUM
+#F20000,Electric Ruby,,MEDIUM
+#F22F08,Neon Crimson,,MEDIUM
+#F25C00,Punchy Coral,,MEDIUM
+#F26419,Electric Coral,,MEDIUM
+#F2746B,Bright Garnet,,MEDIUM
+#F28500,Tangerine Orange,,MEDIUM
+#F28A30,Luminous Tangerine,,MEDIUM
+#F29D4B,Bold Copper,,MEDIUM
+#F2A104,Electric Copper,,MEDIUM
+#F2AD78,Radiant Copper,,MEDIUM
+#F2C057,Swiss Cheese,,MEDIUM
+#F2C083,Punchy Copper,,MEDIUM
+#F2E3D5,Earthy Apricot,,MEDIUM
+#F2E6CC,Linen Beige,,MEDIUM
+#F2E9E4,Pearl White,,MEDIUM
+#F2EAED,Misty Rose,,MEDIUM
+#F2EBE9,Gentle Coral,,MEDIUM
+#F2ECE1,Smoky Apricot,,MEDIUM
+#F2F2F2,Alabaster White,,MEDIUM
+#F2FF26,Electric Marigold,,MEDIUM
+#F2FF80,Pale Primrose,,MEDIUM
+#F2FFFF,Ice Mist,,MEDIUM
+#F34A4A,Vivid Garnet,,MEDIUM
+#F3722C,Neon Coral,,MEDIUM
+#F3B05A,Jewel Copper,,MEDIUM
+#F3CD05,Brilliant Amber,,MEDIUM
+#F3D3B8,Pastel Tangerine,,MEDIUM
+#F3D4A0,Sunlit Tangerine,,MEDIUM
+#F3E4C6,Silken Tangerine,,MEDIUM
+#F3E96B,Bold Marigold,,MEDIUM
+#F3EBDD,Marble Orange,,MEDIUM
+#F3EED6,Warm Ochre,,MEDIUM
+#F3EFCA,Pastel Amber,,MEDIUM
+#F3F1F3,Pale Pearl White,,MEDIUM
+#F46A4E,Brilliant Crimson,,MEDIUM
+#F47D4A,Brilliant Coral,,MEDIUM
+#F4874B,High-Voltage Coral,,MEDIUM
+#F49F05,Neon Copper,,MEDIUM
+#F4A261,Bright Apricot,,MEDIUM
+#F4ACB7,Light Crimson,,MEDIUM
+#F4CC70,Sandstone Gold,,MEDIUM
+#F4D35E,Radiant Amber,,MEDIUM
+#F4D993,Sunlit Amber,,MEDIUM
+#F4D9C1,Light Copper,,MEDIUM
+#F4DF4E,High-Voltage Amber,,MEDIUM
+#F4E3B1,Gentle Amber,,MEDIUM
+#F4EADE,Plaster Orange,,MEDIUM
+#F4EBDB,Smog Orange,,MEDIUM
+#F4EC6A,Radiant Marigold,,MEDIUM
+#F4ED71,Punchy Marigold,,MEDIUM
+#F4F1DE,Cool Ochre,,MEDIUM
+#F4F2B1,Light Marigold,,MEDIUM
+#F4F3F4,Pearl Pearl White,,MEDIUM
+#F4F4EF,Paper Gold,,MEDIUM
+#F52549,Vivid Crimson,,MEDIUM
+#F55449,Firework Red,,MEDIUM
+#F56C57,Salmon Red,,MEDIUM
+#F59994,Pastel Crimson,,MEDIUM
+#F5BE41,Yellow Pepper,,MEDIUM
+#F5CA99,Pastel Copper,,MEDIUM
+#F5E356,Sunflower Yellow,,MEDIUM
+#F5EBE0,Satin Apricot,,MEDIUM
+#F5F5B8,Pastel Marigold,,MEDIUM
+#F62A00,Candy Apple,,MEDIUM
+#F67280,Bold Garnet,,MEDIUM
+#F69454,Coral Pink,,MEDIUM
+#F6AE2D,Brilliant Copper,,MEDIUM
+#F70025,Cherry Red,,MEDIUM
+#F72585,Electric Rose,,MEDIUM
+#F77604,High-Voltage Copper,,MEDIUM
+#F78B2D,Lox Orange,,MEDIUM
+#F79B77,Luminous Coral,,MEDIUM
+#F7B178,Luminous Copper,,MEDIUM
+#F7EFE2,Ice Orange,,MEDIUM
+#F8961E,Electric Apricot,,MEDIUM
+#F8A055,Canteloupe Orange,,MEDIUM
+#F8EDEB,Calm Ruby,,MEDIUM
+#F8F1E5,Bone Orange,,MEDIUM
+#F8F5F2,Pearl Orange,,MEDIUM
+#F8FFE5,Pale Citron,,MEDIUM
+#F94144,Luminous Crimson,,MEDIUM
+#F95700,Vivid Rust,,MEDIUM
+#F95738,Neon Ruby,,MEDIUM
+#F98866,Petal Coral,,MEDIUM
+#F9A603,Neon Apricot,,MEDIUM
+#F9BA32,Brilliant Apricot,,MEDIUM
+#F9C74F,Vivid Ochre,,MEDIUM
+#F9DC24,Yellow Gold,,MEDIUM
+#F9DCC4,Sunlit Copper,,MEDIUM
+#F9F9FF,Cotton Blue,,MEDIUM
+#FA2B00,Brilliant Ruby,,MEDIUM
+#FA4032,Ruby Red,,MEDIUM
+#FA6775,Bubblegum Pink,,MEDIUM
+#FA6E59,Watermelon Red,,MEDIUM
+#FA8072,Salmon Pink,,MEDIUM
+#FA812F,Grapefruit Orange,,MEDIUM
+#FA8D62,Neon Rust,,MEDIUM
+#FA9442,Radiant Apricot,,MEDIUM
+#FAAE3D,Bold Apricot,,MEDIUM
+#FAAF08,High-Voltage Apricot,,MEDIUM
+#FAD2E1,Pale Rose,,MEDIUM
+#FAED8F,Silken Amber,,MEDIUM
+#FAEFD4,Cream White,,MEDIUM
+#FB6542,Sunset Red,,MEDIUM
+#FBCB7B,Toasted Orange,,MEDIUM
+#FBCD4B,Electric Ochre,,MEDIUM
+#FBE9E7,Charcoal Red,,MEDIUM
+#FC766A,High-Voltage Ruby,,MEDIUM
+#FCC875,Luminous Apricot,,MEDIUM
+#FCD5CE,Pale Crimson,,MEDIUM
+#FCFCFA,Misty Marigold,,MEDIUM
+#FCFDFE,Snow White,,MEDIUM
+#FD3C3C,Luminous Ruby,,MEDIUM
+#FD974F,Onion Orange,,MEDIUM
+#FDD475,Vivid Persimmon,,MEDIUM
+#FDE2E4,Frosted Crimson,,MEDIUM
+#FDF6F6,Porcelain Red,,MEDIUM
+#FDFFFF,Cotton Teal,,MEDIUM
+#FE0000,Red Red,,MEDIUM
+#FE7A47,Brilliant Rust,,MEDIUM
+#FEF2E4,Mushroom Orange,,MEDIUM
+#FEF3E2,Pale Tangerine,,MEDIUM
+#FEFAE0,Pale Amber,,MEDIUM
+#FF0000,Vermilion Red,,MEDIUM
+#FF0038,Magenta Rose,,MEDIUM
+#FF004D,Neon Rose,,MEDIUM
+#FF0054,Brilliant Rose,,MEDIUM
+#FF007F,Rose Pink,,MEDIUM
+#FF00B2,Cerise Red,,MEDIUM
+#FF00FF,Neon Magenta,Fuchsia,MEDIUM
+#FF1900,Flame Scarlet,,MEDIUM
+#FF2600,High-Voltage Crimson,,MEDIUM
+#FF26FF,Rose Magenta,,MEDIUM
+#FF3300,Cinnabar Orange,,MEDIUM
+#FF3319,Electric Garnet,,MEDIUM
+#FF3333,Poppy Red,,MEDIUM
+#FF3366,High-Voltage Rose,,MEDIUM
+#FF3FB4,Neon Pink (Pms 806),,MEDIUM
+#FF420E,Poppy Orange,,MEDIUM
+#FF4447,Raspberry Rose,,MEDIUM
+#FF4D00,Cadmium Orange,,MEDIUM
+#FF4DB2,Begonia Pink,,MEDIUM
+#FF4DC9,Vivid Fuchsia,,MEDIUM
+#FF5200,Bold Rust,,MEDIUM
+#FF5400,High-Voltage Rust,,MEDIUM
+#FF5714,Luminous Rust,,MEDIUM
+#FF59BF,Watermelon Pink,,MEDIUM
+#FF5EC4,Neon Fuchsia Glow,Electric Fuchsia,MEDIUM
+#FF616B,Neon Garnet,,MEDIUM
+#FF6666,Brilliant Garnet,,MEDIUM
+#FF6680,Salmon Coral,,MEDIUM
+#FF7340,Vivid Vermilion,,MEDIUM
+#FF7399,Luminous Rose,,MEDIUM
+#FF788C,Radiant Garnet,,MEDIUM
+#FF7AA2,Strawberry Red,,MEDIUM
+#FF7D00,Electric Persimmon,,MEDIUM
+#FF7F50,Electric Vermilion,,MEDIUM
+#FF8000,Sunburst Tangerine,Tangerine,LOW
+#FF8080,Flamingo Pink,,MEDIUM
+#FF80CC,Blossom Pink,,MEDIUM
+#FF80E6,Carnation Pink,,MEDIUM
+#FF8A65,Neon Vermilion,,MEDIUM
+#FF8C00,Neon Persimmon,,MEDIUM
+#FF8D3F,Brilliant Persimmon,,MEDIUM
+#FF994D,Melon Orange,,MEDIUM
+#FF99CC,Tea Rose,,MEDIUM
+#FF9B9B,Sunlit Crimson,,MEDIUM
+#FF9EBB,Light Rose,,MEDIUM
+#FFA577,Brilliant Vermilion,,MEDIUM
+#FFA600,Marigold Yellow,,MEDIUM
+#FFA6D9,Light Fuchsia,,MEDIUM
+#FFAB00,Radiant Persimmon,,MEDIUM
+#FFAFCC,Pastel Rose,,MEDIUM
+#FFB200,Goldenrod Glow,Goldenrod,LOW
+#FFB299,Apricot Cream,,MEDIUM
+#FFB2FF,Light Orchid,,MEDIUM
+#FFB3F0,Pastel Fuchsia,,MEDIUM
+#FFB5A7,Gentle Crimson,,MEDIUM
+#FFB6C1,Silken Crimson,,MEDIUM
+#FFB745,Orange Juice,,MEDIUM
+#FFB74C,Sunshine Orange,,MEDIUM
+#FFB852,Bold Persimmon,,MEDIUM
+#FFBB00,Sunflower Gold,,MEDIUM
+#FFBD00,Neon Ochre,,MEDIUM
+#FFBEBD,Soft Pink,,MEDIUM
+#FFBF00,Saffron Gold,,MEDIUM
+#FFBF6E,High-Voltage Persimmon,,MEDIUM
+#FFBF99,Light Coral,,MEDIUM
+#FFC2D1,Frosted Rose,,MEDIUM
+#FFC857,Luminous Persimmon,,MEDIUM
+#FFC8A2,Silken Copper,,MEDIUM
+#FFC8DD,Icy Rose,,MEDIUM
+#FFCAD4,Icy Crimson,,MEDIUM
+#FFCC00,Gamboge Yellow,,MEDIUM
+#FFCC80,Buff Peach,,MEDIUM
+#FFCCAC,Peach Coral,,MEDIUM
+#FFCCBB,Sunrise Coral,,MEDIUM
+#FFCE38,Brilliant Ochre,,MEDIUM
+#FFCFC4,Airy Crimson,,MEDIUM
+#FFD166,Vivid Marmalade,,MEDIUM
+#FFD54F,Radiant Ochre,,MEDIUM
+#FFD64D,Sunlit Marigold,Sunlit Gold,MEDIUM
+#FFD700,Golden Radiance,Gold,MEDIUM
+#FFD9FF,Pastel Pink,,MEDIUM
+#FFDB58,High-Voltage Ochre,,MEDIUM
+#FFDB5C,Luminous Ochre,,MEDIUM
+#FFDDD2,Pale Coral,,MEDIUM
+#FFE5B4,Light Apricot,,MEDIUM
+#FFE5D9,Frosted Coral,,MEDIUM
+#FFE600,Vivid Bronze,,MEDIUM
+#FFE666,Jasmine Yellow,,MEDIUM
+#FFE680,Flaxen Cream,,MEDIUM
+#FFE8D6,Frosted Tangerine,,MEDIUM
+#FFE900,Electric Yellow (Pms 803),,MEDIUM
+#FFEB94,Butter Gold,,MEDIUM
+#FFEC5C,Electric Bronze,,MEDIUM
+#FFECD1,Icy Tangerine,,MEDIUM
+#FFF2FF,Blush White,,MEDIUM
+#FFF59E,Light Ochre,,MEDIUM
+#FFF700,Neon Marigold,,MEDIUM
+#FFFAE1,Light Gold,,MEDIUM
+#FFFDD0,Pale Marigold,,MEDIUM
+#FFFF00,Canary Yellow,,MEDIUM
+#FFFF4D,Jonquil Yellow,,MEDIUM
+#FFFF80,Butter Yellow,,MEDIUM
+#FFFFE6,Ivory Cream,,MEDIUM
+#FFFFFF,Porcelain White,Pure White,MEDIUM

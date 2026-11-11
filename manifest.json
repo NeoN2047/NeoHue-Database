@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "databaseVersion": 1,
+  "releasedAt": "2026-11-11T00:00:00Z",
+  "description": "NeoHue original reference colour and palette database baseline",
+  "masterCsv": {
+    "path": "NeoHue_Master_Raw_Colour_Records.csv",
+    "sizeBytes": 160373,
+    "sha256": "5f62f207df59f2c289e42871e98c0dbe534f67eb51114904f894b38769513f58"
+  },
+  "namesCsv": {
+    "path": "NeoHue_Colour_Name_Update_1208.csv",
+    "sizeBytes": 36833,
+    "sha256": "2b1394172e4df6c333d7f349e06e91b4a65bf1b622e19f8c2ef757909ec6745f"
+  }
+}
