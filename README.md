@@ -1,2 +1,2 @@
 # NeoHue-Database
-dabase for NeuHue
+database for NeuHue
